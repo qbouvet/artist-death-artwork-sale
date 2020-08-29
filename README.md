@@ -1,6 +1,6 @@
 ﻿# The Post Mortem Cult of Celebrities  
 
-Read research questions, then take a look at [our poster](https://github.com/qbouvet/artist-death-artwork-sale/blob/master/poster.pdf)
+Read our research questions first, then for a TL;DR, take a look at [our poster](https://github.com/qbouvet/artist-death-artwork-sale/blob/master/poster.pdf)
 
 
 # Research questions
