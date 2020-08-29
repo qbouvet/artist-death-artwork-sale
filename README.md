@@ -1,5 +1,12 @@
 ﻿# The Post Mortem Cult of Celebrities  
 
+Read research questions, then take a look at [our poster](https://github.com/qbouvet/artist-death-artwork-sale/blob/master/poster.pdf)
+
+
+# Research questions
+* When a author/artist died, What trend of popularity occurs on their related product on amazon? (For an author; it's book, for an actor; related movies,... etc)
+* What's this impact in function of the type of artwork the author/artist did? (musics/books/films/...)
+
 # Abstract
 
 It is often said, ironically, that Van Gogh never sold a painting in his lifetime while he is one of the most famous painters in history.
@@ -13,11 +20,6 @@ Indeed, the first part of this project consisted of the extraction of the data o
 Otherwise, the list of authors deceased in the time interval corresponding to Amazon's data, was scrapped from Wikipedia and stored in a compact and easy-to-use format.  
 The second part of the research will be based on the extraction of quantifiable features (interest in the form of number of reviews, appraisal index of reviews, temporal dimensionnality...) in order to allow a mathematical analysis of the data.
 The last conclusions will be drawn based on mathematical results and hypothesis testing.
-
-
-# Research questions
-* When a author/artist died, What trend of popularity occurs on their related product on amazon? (For an author; it's book, for an actor; related movies,... etc)
-* What's this impact in function of the type of artwork the author/artist did? (musics/books/films/...)
 
 
 # Dataset
